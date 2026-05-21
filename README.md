@@ -5,4 +5,6 @@ Håller på att skapa en toml-fil samt CMakelists.
 
 Jag ska också testa på att skapa branches för att pusha kod. 
 
+Jag har gjort nu branches till exempel, frontend, backend, python, c/c++, golang samt php. 
+
 
