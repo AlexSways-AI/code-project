@@ -5,4 +5,18 @@ Håller på att skapa en toml-fil samt CMakelists.
 
 Jag ska också testa på att skapa branches för att pusha kod. 
 
+Arduino: 
+
+
+c/c++: 
+
+
+php: 
+
+
+Python: 
+
+
+sql: 
+
 
